@@ -1,4 +1,0 @@
- 
-=======
-file is in a stash mode
->>>>>>> Stashed changes
