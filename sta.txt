@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
  these is a file to commit  these is a file to commit 
+=======
+these is a file to commit 
+>>>>>>> Stashed changes
