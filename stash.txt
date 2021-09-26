@@ -1,17 +1,2 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 
-git second stash adding to the local repository
->>>>>>> Stashed changes
-=======
 
-=======
------------
-=============
-\\\\\\\\\\\\\\\\\\\\
->>>>>>> Stashed changes
-=======
-git second stash adding to the local repository
->>>>>>> Stashed changes
