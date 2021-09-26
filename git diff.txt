@@ -1,0 +1,2 @@
+git adding to the repo
+git different adding some text in a single text document
