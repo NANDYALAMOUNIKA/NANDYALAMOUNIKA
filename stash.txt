@@ -1,4 +1,0 @@
-
-=======
-git second stash adding to the local repository
->>>>>>> Stashed changes
