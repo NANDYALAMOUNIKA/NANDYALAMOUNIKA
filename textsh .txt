@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
 the stash added text from the text but it do the the cut & paste
+=======
+()(()()()()()()()()
+P{}[}[[]{}{}{}{}{}{}
+>>>>>>> Stashed changes
