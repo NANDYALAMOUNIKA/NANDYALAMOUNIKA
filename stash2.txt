@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream
 ---------------
 ==========================
 \\\\\\\\\\\\\\\\\\\\
+=======
+git conneted by github present in the cloud base
+>>>>>>> Stashed changes
